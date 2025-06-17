@@ -1,4 +1,4 @@
-🧪 Manual Test Cases Repository
+**🧪 Manual Test Cases**
 This repository contains manual test cases for the following:
 
 1. OTP (One-Time Password) Module
@@ -10,14 +10,14 @@ This repository contains manual test cases for the following:
 3. Bdjobs.com Website
 * Test cases related to user authentication features.
 
-  📄 Test Case Details
+📄 **Test Case Details**
 Each test case includes:
 
-**Test Case ID
-**Description
-**Preconditions
-**Test Steps
-**Expected Result
-**Actual Result
-**Status (Pass/Fail)
+*Test Case ID
+*Description
+*Preconditions
+*Test Steps
+*Expected Result
+*Actual Result
+*Status (Pass/Fail)
 
