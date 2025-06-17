@@ -1,4 +1,4 @@
-**🧪 Manual Test Cases**  
+# **🧪 Manual Test Cases**  
 
 This repository contains manual test cases for the following:
 
@@ -11,7 +11,8 @@ This repository contains manual test cases for the following:
 3. Bdjobs.com Website
 * Test cases related to user authentication features.
 
-📄 **Test Case Details**
+# 📄 **Test Case Details**
+
 Each test case includes:
 
 * Test Case ID
