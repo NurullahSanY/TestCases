@@ -1,4 +1,5 @@
-**🧪 Manual Test Cases**
+**🧪 Manual Test Cases**  
+
 This repository contains manual test cases for the following:
 
 1. OTP (One-Time Password) Module
@@ -13,17 +14,17 @@ This repository contains manual test cases for the following:
 📄 **Test Case Details**
 Each test case includes:
 
-*Test Case ID  
+* Test Case ID
 
-*Description
+* Description
 
-*Preconditions
+* Preconditions
 
-*Test Steps
+* Test Steps
 
-*Expected Result
+* Expected Result
 
-*Actual Result
+* Actual Result
 
-*Status (Pass/Fail)
+* Status (Pass/Fail)
 
